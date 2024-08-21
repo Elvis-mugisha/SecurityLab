@@ -40,7 +40,10 @@ Run Validation Tests
 To validate request data, use the provided validation functions or API endpoints in the project.
 Run Semgrep Analysis
 Execute Semgrep with your custom rules to analyze the codebase.
-6. **Check Results**
+
+ **Image URL:** Replace `https://ibb.co/yQ8dBFt`
+
+**Check Results**
 Review the output from Semgrep for any violations or issues detected by your custom rules.
 
 **Contributing**
