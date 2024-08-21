@@ -1,5 +1,4 @@
-<img width="1440" alt="Screenshot 2024-08-21 at 18 41 55" src="https://github.com/user-attachments/assets/2a845278-aadc-4fb6-971c-28e74a17c109">
-<img width="1440" alt="Screenshot 2024-08-21 at 18 41 55" src="https://github.com/user-attachments/assets/c22e387d-1bbe-47f6-9075-3b196b5ada9e">
+
 # SecurityLab Project
 
 ## Project Overview
@@ -43,10 +42,13 @@ To validate request data, use the provided validation functions or API endpoints
 Run Semgrep Analysis
 Execute Semgrep with your custom rules to analyze the codebase.
 
- **Image URL:** Replace `https://ibb.co/yQ8dBFt`
-
 **Check Results**
 Review the output from Semgrep for any violations or issues detected by your custom rules.
+
+**1.** Here is a picture showing an issue with System.out.println identified by Semgrep:
+<img width="1440" alt="Screenshot 2024-08-21 at 18 41 55" src="https://github.com/user-attachments/assets/3c4e6a92-fcf7-4407-b992-c5c302b43691">
+
+**2.** And here is a picture showing the corrected error:
 
 **Contributing**
 
