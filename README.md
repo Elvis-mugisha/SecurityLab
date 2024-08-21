@@ -49,6 +49,7 @@ Review the output from Semgrep for any violations or issues detected by your cus
 <img width="1440" alt="Screenshot 2024-08-21 at 18 41 55" src="https://github.com/user-attachments/assets/3c4e6a92-fcf7-4407-b992-c5c302b43691">
 
 **2.** And here is a picture showing the corrected error:
+<img width="1440" alt="Screenshot 2024-08-21 at 19 13 55" src="https://github.com/user-attachments/assets/4ede130c-2450-4746-acc3-759b71c9311f">
 
 **Contributing**
 
