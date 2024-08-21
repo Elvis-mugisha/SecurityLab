@@ -21,6 +21,7 @@ public class UserController {
     @PostMapping
     public ResponseEntity<UserModel> createUser(@Valid @RequestBody UserModel user) {
         UserModel createdUser = userService.saveUser(user);
+        System.out.println(createdUser);
         return ResponseEntity.ok(createdUser);
     }
 
