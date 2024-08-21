@@ -40,8 +40,16 @@ Run Validation Tests
 To validate request data, use the provided validation functions or API endpoints in the project.
 Run Semgrep Analysis
 Execute Semgrep with your custom rules to analyze the codebase.
-   ```bash
-  semgrep --config semgrep-config.yml
+6. **Check Results**
+Review the output from Semgrep for any violations or issues detected by your custom rules.
+
+**Contributing**
+
+Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. Ensure that your code adheres to the validation rules and passes all Semgrep checks before submitting.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 
